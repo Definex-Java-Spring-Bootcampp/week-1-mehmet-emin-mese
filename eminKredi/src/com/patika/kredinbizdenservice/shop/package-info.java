@@ -1,0 +1,1 @@
+package com.patika.kredinbizdenservice.shop;
